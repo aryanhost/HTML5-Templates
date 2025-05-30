@@ -30,4 +30,4 @@ Add a screenshot here:
 
 ## 👤 Author
 
-Created by [Morteza Lotfi](https://github.com/mortezalotfi)
+Created by [Morteza Lotfi](https://github.com/morteza-lotfi)
